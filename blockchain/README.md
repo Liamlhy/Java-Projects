@@ -1,10 +1,5 @@
-# blockchain-haoyang-and-chen
-blockchain-haoyang-and-chen created by GitHub Classroom
 
 Block Chains
-
-Group Member : Haoyang Li, Chen Wang
-Late day: Use one of Haoyang Li's Late day. And one of Chen Wang's. 
 
 
 CommandLine:
